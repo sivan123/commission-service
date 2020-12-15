@@ -1,6 +1,6 @@
 rulePrecedence,counterPartyId,exchange,product,tradeValue,computationFactor
-100,1,NYC,FX,1000.0,.05
-200,,LON,FX,1000.0,.05
+100,1,NYC,FX,1000.0,.02
+200,,LON,FX,1000.0,.03
 300,,NYC,IRS,1000.0,.06
 400,*,NYC,*,1000.0,.07
 100000,*,*,*,*,.05
